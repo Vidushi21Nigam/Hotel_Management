@@ -1,0 +1,24 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+  -webkit-appearance:none;
+  margin:0;
+}
+.custom-bg{
+  background-color:#2ec1ac;
+  border:1px solid #2ec1ac;
+}
+.custom-bg:hover{
+  background-color:#279e8c;
+  border:1px solid #279e8c;
+}
+.h-line{
+  width:150px;
+  margin:0 auto;
+  height:1.7px;
+}
+.custom-alert
+{
+  position:fixed;
+  top:25px;
+  right:25px;
+}
